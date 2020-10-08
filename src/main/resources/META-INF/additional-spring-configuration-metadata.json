@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasourse.url",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasourse.url."
+    },
+    {
+      "name": "spring.datasourse.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasourse.username."
+    }
+  ] }
